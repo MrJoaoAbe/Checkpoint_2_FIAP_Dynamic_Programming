@@ -21,3 +21,6 @@ Bibliotecas utilizadas:
 - functools 
 - time
 - tracemalloc
+
+Como ver o mapa?
+Para ver os mapas é necessário abrir os arquivos HTML, pois o folium não estava funcionando dentro do Jupyter, então foi salvo como arquivo para abrir manualmente no navegador.
