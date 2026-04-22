@@ -1,7 +1,7 @@
 # Checkpoint_2_FIAP_Dynamic_Programming
 CP2 - Dynamic Programming
 
-Integrantes do Grupo:
+## Integrantes do Grupo:
 
 Eduardo Santiago Bassan - RM561474  
 Henry Browne Andrade - RM562622  
@@ -9,7 +9,7 @@ Mariana S. do Egito Moreira - RM562544
 João Victor de Souza Abe - RM561446  
 Deivid Ruan - RM566356  
 
-Bibliotecas utilizadas:
+### Bibliotecas utilizadas:
 
 - requests
 - pandas 
@@ -22,5 +22,5 @@ Bibliotecas utilizadas:
 - time
 - tracemalloc
 
-Como ver o mapa?
+### Como ver o mapa?  
 Para ver os mapas é necessário abrir os arquivos HTML, pois o folium não estava funcionando dentro do Jupyter, então foi salvo como arquivo para abrir manualmente no navegador.
